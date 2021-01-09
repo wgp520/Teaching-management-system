@@ -1,0 +1,54 @@
+D:\Learning\C#\Teaching management system\Teaching management system\bin\Debug\Teaching management system.exe.config
+D:\Learning\C#\Teaching management system\Teaching management system\bin\Debug\Teaching management system.exe
+D:\Learning\C#\Teaching management system\Teaching management system\bin\Debug\Teaching management system.pdb
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching management system.csprojAssemblyReference.cache
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching_management_system.Properties.Resources.resources
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching_management_system.registration.resources
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching management system.csproj.GenerateResource.cache
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching management system.csproj.CoreCompileInputs.cache
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching management system.exe
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching management system.pdb
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching_management_system.login.resources
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching_management_system.s_mainForm.resources
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching_management_system.t_mainForm.resources
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching_management_system.QueryDepartment.resources
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching_management_system.QueryTeacher.resources
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching_management_system.QueryClass.resources
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching_management_system.QueryStudent.resources
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching_management_system.QueryGrade.resources
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching_management_system.ElectiveCourse.resources
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching_management_system.GradeStatistics.resources
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching_management_system.RegistrationGrade.resources
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching_management_system.RetakeTest.resources
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching_management_system.WorkloadStatistics.resources
+D:\Learning\C#\Teaching management system\Teaching management system\bin\Debug\Teaching management system.exe.manifest
+D:\Learning\C#\Teaching management system\Teaching management system\bin\Debug\Teaching management system.application
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching management system.exe.manifest
+D:\Learning\C#\Teaching management system\Teaching management system\obj\Debug\Teaching management system.application
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\bin\Debug\Teaching management system.exe.config
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\bin\Debug\Teaching management system.exe.manifest
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\bin\Debug\Teaching management system.application
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\bin\Debug\Teaching management system.exe
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\bin\Debug\Teaching management system.pdb
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching management system.csprojAssemblyReference.cache
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching_management_system.ElectiveCourse.resources
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching_management_system.login.resources
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching_management_system.s_mainForm.resources
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching_management_system.t_mainForm.resources
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching_management_system.GradeStatistics.resources
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching_management_system.Properties.Resources.resources
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching_management_system.registration.resources
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching_management_system.QueryDepartment.resources
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching_management_system.QueryTeacher.resources
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching_management_system.QueryClass.resources
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching_management_system.QueryStudent.resources
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching_management_system.QueryGrade.resources
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching_management_system.RegistrationGrade.resources
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching_management_system.RetakeTest.resources
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching_management_system.WorkloadStatistics.resources
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching management system.csproj.GenerateResource.cache
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching management system.csproj.CoreCompileInputs.cache
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching management system.exe.manifest
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching management system.application
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching management system.exe
+D:\Learning\SQL\9 - 高校教学管理系统\代码\Teaching management system\obj\Debug\Teaching management system.pdb
